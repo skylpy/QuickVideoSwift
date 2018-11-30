@@ -1,0 +1,6 @@
+framework module Pods_QuickVideoSwift {
+  umbrella header "Pods-QuickVideoSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

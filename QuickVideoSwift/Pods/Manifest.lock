@@ -1,0 +1,33 @@
+PODS:
+  - BFKit-Swift (3.1.2)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - BFKit-Swift (~> 3.1.2)
+  - RxCocoa
+  - RxSwift
+  - SnapKit (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BFKit-Swift
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  BFKit-Swift: c99096d56c4afb1291bd6f1660e33c96f9f69cc7
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: e2f79720ab8e1cdce803f2d5bf050c78b6a59c2a
+
+COCOAPODS: 1.5.3
